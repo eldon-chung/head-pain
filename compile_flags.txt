@@ -1,0 +1,3 @@
+-std=c++23
+-xc++
+-D__cpp_concepts=202002
